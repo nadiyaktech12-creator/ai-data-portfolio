@@ -9,9 +9,11 @@ st.title("Customer Churn Risk Dashboard")
 st.markdown("### Telco Customer Churn Analysis")
 
 # Load Data
+from pathlib import path
+
 @st.cache_data
-data_path = path(__file__).parent/ "churn.csv"
 def load_data():
+    data_path = path(__file__).parent/ "churn.csv"
     df = pd.read_csv("data_path")
     return df
 
