@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from pathlib import path
+from pathlib import Path
 
 
 # Page Config
@@ -13,8 +13,8 @@ st.markdown("### Telco Customer Churn Analysis")
 # Load Data
 @st.cache_data
 def load_data():
-    data_path = path(__file__).parent/ "churn.csv"
-    df = pd.read_csv("data_path")
+    data_path = Path(__file__).parent/ "churn.csv"
+    df = pd.read_csv(data_path)
     return df
 
 df = load_data()
