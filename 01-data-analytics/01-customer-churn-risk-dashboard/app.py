@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+from pathlib import path
+
 
 # Page Config
 st.set_page_config(page_title="Customer Churn Risk Dashboard", layout="wide")
@@ -9,8 +11,6 @@ st.title("Customer Churn Risk Dashboard")
 st.markdown("### Telco Customer Churn Analysis")
 
 # Load Data
-from pathlib import path
-
 @st.cache_data
 def load_data():
     data_path = path(__file__).parent/ "churn.csv"
