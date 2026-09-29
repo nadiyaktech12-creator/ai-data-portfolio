@@ -42,14 +42,20 @@ An interactive Streamlit dashboard that allows users to:
 
 ---
 
-Dataset
+*Dataset*
 Telco Customer Churn Dataset(publicly available)
 
 ---
 
-Author
-Nadiya Kauser
+*Author*
+Nadiya Kauser |
 Master's Student (USA) | DataPeaks Solutions
+
+---
+*Dashboard Link*
+https://customer-churn-risk-dashboard-1.streamlit.app/
+
+---
 
 ## How to Run Locally
 
