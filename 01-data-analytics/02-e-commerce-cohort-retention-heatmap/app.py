@@ -19,10 +19,10 @@ It tells us what percentage of customers who made their first purchase in a part
 # Load the data
 @st.cache_data
 def load_data():
-data_path = Path(__file__).parent / "online_retail.xlsx"
+    data_path = Path(__file__).parent / "online_retail.xlsx"
     df = pd.read_excel(data_path)
     df = df.dropna(subset=["CustomerID"])
-    df = df[df["Quantity"] > 0]  # remove returns / cancelled orders
+    df = df[df["Quantity"] > 0]
     df["InvoiceDate"] = pd.to_datetime(df["InvoiceDate"])
     return df
 
