@@ -1,6 +1,4 @@
-Here's the full README with the live demo link added at the top — copy this entire thing to replace what's in the editor:
 
-```markdown
 # E-commerce Sales Cohort Retention Heatmap
 
 ## 🔗 Live Demo
