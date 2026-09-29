@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demos-blue?style=for-the-badge)](https://github.com/nadiyaktech12-creator/ai-data-portfolio)
 [![DataPeaks](https://img.shields.io/badge/Trained%20at-DataPeaks%20Solutions-0A66C2?style=for-the-badge)](https://datapeakssolutions.com)
-[![Location](https://img.shields.io/badge/Based%20in-USA-red?style=for-the-badge)](www.linkedin.com/in/nadiya-kauser)
+[![Location](https://img.shields.io/badge/Based%20in-USA-red?style=for-the-badge)](https://www.linkedin.com/in/nadiya-kauser)
 [![Status](https://img.shields.io/badge/Status-Actively%20Building-success?style=for-the-badge)]()
 
 ---
@@ -40,7 +40,7 @@ This repository contains carefully selected **client-ready projects** built with
 
 ### 🔹 Data Analytics
 - Customer Churn Risk Dashboards : https://customer-churn-risk-dashboard-1.streamlit.app/
-- Cohort Retention Analysis
+- Cohort Retention Analysis : https://e-commerce-cohort-retention-heatmap-1.streamlit.app/
 - SaaS MRR & Revenue Tracking
 - Operational & Healthcare Analytics Dashboards
 
