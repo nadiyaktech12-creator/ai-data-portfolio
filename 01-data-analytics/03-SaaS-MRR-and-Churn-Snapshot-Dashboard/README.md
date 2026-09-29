@@ -1,7 +1,7 @@
 # SaaS MRR and Churn Snapshot Dashboard
 
 ## 🔗 Live Demo
-[Open the dashboard](httpslink.streamlit.app)
+[Open the dashboard](https://saas-mrr-and-churn-snapshort-dashboard-1.streamlit.app/)
 
 This dashboard gives a clear snapshot of Monthly Recurring Revenue (MRR), growth, and customer churn for a SaaS business.
 
