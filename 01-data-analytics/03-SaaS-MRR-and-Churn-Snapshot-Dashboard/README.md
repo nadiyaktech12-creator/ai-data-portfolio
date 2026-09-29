@@ -1,4 +1,4 @@
-# SaaS MRR & Churn Snapshot Dashboard
+# SaaS MRR and Churn Snapshot Dashboard
 
 ## 🔗 Live Demo
 [Open the dashboard](httpslink.streamlit.app)
@@ -41,7 +41,7 @@ streamlit run app.py
 
 ### Project Structure
 ```
-03-SaaS-MRR-&-Churn-Snapshot-Dashboard/
+03-SaaS-MRR-and-Churn-Snapshot-Dashboard/
 ├── app.py
 ├── generate_data.py
 ├── subscriptions.csv
