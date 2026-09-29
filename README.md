@@ -41,7 +41,7 @@ This repository contains carefully selected **client-ready projects** built with
 ### 🔹 Data Analytics
 - Customer Churn Risk Dashboards : https://customer-churn-risk-dashboard-1.streamlit.app/
 - Cohort Retention Analysis : https://e-commerce-cohort-retention-heatmap-1.streamlit.app/
-- SaaS MRR & Revenue Tracking
+- SaaS MRR & Revenue Tracking : https://saas-mrr-and-churn-snapshort-dashboard-1.streamlit.app/
 - Operational & Healthcare Analytics Dashboards
 
 ### 🔹 Data Science
