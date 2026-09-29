@@ -3,9 +3,9 @@ import pandas as pd
 import plotly.express as px
 from pathlib import Path
 
-st.set_page_config(page_title="SaaS MRR & Churn Dashboard", layout="wide")
+st.set_page_config(page_title="SaaS MRR and Churn Dashboard", layout="wide")
 
-st.title("SaaS MRR & Churn Snapshot Dashboard")
+st.title("SaaS MRR and Churn Snapshot Dashboard")
 st.markdown("A clear view of Monthly Recurring Revenue, growth, and customer churn.")
 
 # Load data
