@@ -46,7 +46,7 @@ This repository contains carefully selected **client-ready projects** built with
 
 ### 🔹 Data Science
 - Customer Propensity-to-Buy Models : https://customer-propensity-to-buy-classifier.streamlit.app/
-- Credit Risk & Fraud Indicators
+- Credit Risk Scorecard Model : https://credit-risk-scorecard1.streamlit.app/
 - Employee Attrition Prediction
 - A/B Test Evaluation Frameworks
 
