@@ -45,7 +45,7 @@ This repository contains carefully selected **client-ready projects** built with
 - Airbnb Price and Occupancy Explorer Dashboard : https://airbnb-price-and-occupancy-explorer.streamlit.app/
 
 ### 🔹 Data Science
-- Customer Propensity-to-Buy Models
+- Customer Propensity-to-Buy Models : https://customer-propensity-to-buy-classifier.streamlit.app/
 - Credit Risk & Fraud Indicators
 - Employee Attrition Prediction
 - A/B Test Evaluation Frameworks
