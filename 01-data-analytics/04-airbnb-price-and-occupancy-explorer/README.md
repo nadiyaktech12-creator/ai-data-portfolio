@@ -2,7 +2,7 @@
 
 An interactive Streamlit dashboard to explore Airbnb listings by neighborhood, room type, and price range.
 
-**Live Demo:** [Add your Streamlit Cloud link here]
+**Live Demo:** [https://airbnb-price-and-occupancy-explorer.streamlit.app/]
 
 ---
 
@@ -42,8 +42,9 @@ An interactive Streamlit dashboard to explore Airbnb listings by neighborhood, r
 
 ##  How to Run Locally
 
-1. Clone the repository
 ```bash
+
+1. Clone the repository
 git clone https://github.com/nadiyaktech12-creator/ai-data-portfolio.git
 cd ai-data-portfolio/01-data-analytics/04-airbnb-price-and-occupancy-explorer
 	2	Create a virtual environment (optional but recommended)       
@@ -51,6 +52,7 @@ cd ai-data-portfolio/01-data-analytics/04-airbnb-price-and-occupancy-explorer
 pip install -r requirements.txt
 	4	Run the app
 streamlit run app.py
+```
 
 📦 Requirements
 streamlit
