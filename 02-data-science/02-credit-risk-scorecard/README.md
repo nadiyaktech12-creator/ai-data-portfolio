@@ -4,7 +4,7 @@ An interactive Streamlit app that estimates the probability of loan default from
 
 > **Disclaimer:** This project is for educational purposes only. It is not a real credit decision engine and must not be used for actual lending decisions.
 
-**Live demo:** [Add Streamlit link here](https://credit-risk-scorecard1.streamlit.app/)
+**Live demo:** [Credit-Risk-Scorecard-Model](https://credit-risk-scorecard1.streamlit.app/)
 
 ---
 
