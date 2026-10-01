@@ -2,7 +2,7 @@
 
 A machine learning app that estimates the probability a bank customer will subscribe to a term deposit, based on customer profile, campaign history and economic indicators. Built with scikit-learn and deployed as an interactive Streamlit app.
 
-**Live demo:** _add Streamlit Cloud link here_
+**Live demo:** https://customer-propensity-to-buy-classifier.streamlit.app/
 
 ---
 
