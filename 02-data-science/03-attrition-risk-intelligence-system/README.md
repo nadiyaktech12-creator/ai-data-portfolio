@@ -54,7 +54,7 @@ Project Structure
 
 
 Live Demo
-[Streamlit deployed link]
+[https://attrition-risk-intelligence-system.streamlit.app/]
 
 
 Key Insights
