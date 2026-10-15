@@ -29,7 +29,8 @@ A clean Streamlit application that takes conversion numbers from Control and Tre
 - NumPy
 
 Live Demo
-[Streamlit Cloud link ]
+[https://ab-test-results-analyzer.streamlit.app/]
+
 Notes
 	•	Uses a significance threshold of p-value < 0.05
 	•	Designed for conversion-based A/B tests
