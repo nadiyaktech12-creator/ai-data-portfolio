@@ -48,7 +48,7 @@ This repository contains carefully selected **client-ready projects** built with
 - Customer Propensity-to-Buy Models : https://customer-propensity-to-buy-classifier.streamlit.app/
 - Credit Risk Scorecard Model : https://credit-risk-scorecard1.streamlit.app/
 - HR-Employee Attrition Risk Intelligence System : https://attrition-risk-intelligence-system.streamlit.app/
-- A/B Test Evaluation Frameworks
+- A/B Test Results Analyzer : https://ab-test-results-analyzer.streamlit.app/
 
 ### 🔹 Data Engineering
 - ETL Pipelines & Data Quality Frameworks
