@@ -1,8 +1,0 @@
-retail_orders:
-  target: dev
-  outputs:
-    dev:
-      type: duckdb
-      path: '../data/retail_orders.duckdb'
-      threads: 4
-      schema: main
