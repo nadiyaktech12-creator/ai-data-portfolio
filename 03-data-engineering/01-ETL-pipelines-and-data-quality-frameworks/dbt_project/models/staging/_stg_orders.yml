@@ -1,0 +1,27 @@
+version: 2
+
+models:
+  - name: stg_orders
+    description: "Cleaned staging view of orders"
+    columns:
+      - name: order_id
+        description: "Unique order identifier"
+        tests:
+          - unique
+          - not_null
+      - name: customer_id
+        tests:
+          - not_null
+      - name: order_date
+        tests:
+          - not_null
+      - name: status
+        tests:
+          - accepted_values:
+              values: ['completed', 'shipped', 'pending', 'cancelled']
+      - name: total_amount
+        tests:
+          - not_null
+      - name: quantity
+        tests:
+          - not_null
