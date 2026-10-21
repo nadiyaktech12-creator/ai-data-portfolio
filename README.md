@@ -51,8 +51,9 @@ This repository contains carefully selected **client-ready projects** built with
 - A/B Test Results Analyzer : https://ab-test-results-analyzer.streamlit.app/
 
 ### 🔹 Data Engineering
-- ETL Pipelines & Data Quality Frameworks
-- Modern Data Stack implementations
+
+* **ETL Pipelines & Data Quality Frameworks** — Modern Data Stack mini project using DuckDB + dbt + Prefect. Demonstrates staging → intermediate → marts modeling, data quality tests, and orchestration.  
+  [View project →](./03-data-engineering/01-ETL-pipelines-and-data-quality-frameworks/)
 
 ### 🔹 Machine Learning Engineering
 - Model Deployment with FastAPI
