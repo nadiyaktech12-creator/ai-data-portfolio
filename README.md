@@ -55,8 +55,7 @@ This repository contains carefully selected **client-ready projects** built with
 * **ETL Pipelines & Data Quality Frameworks** — Modern Data Stack mini project using DuckDB + dbt + Prefect. Demonstrates staging → intermediate → marts modeling, data quality tests, and orchestration.  
   [View project →](./03-data-engineering/01-ETL-pipelines-and-data-quality-frameworks/)
 * **SaaS Data Warehouse Analytics Layer** — Kimball dimensional models (customers, subscriptions, monthly MRR) built with dbt from Stripe + HubSpot-style data.  
-  [View project →](./03-data-engineering/02-SaaS-data-warehouse-analytics-layer/)
-* **IoT Sensor Fleet Data Pipeline** — Local data lake style pipeline generating sensor telemetry, storing as Parquet, and loading into DuckDB for analytics. Orchestrated with Prefect.  
+  [View project →](./03-data-engineering/02-SaaS-data-warehouse-analytics-layer/) 
 * **IoT Sensor Fleet Data Pipeline** — Local data lake style pipeline generating sensor telemetry, storing as Parquet, and loading into DuckDB for analytics. Orchestrated with Prefect.  
   [View project →](./03-data-engineering/03-IoT-sensor-fleet-data-pipeline/)
 
