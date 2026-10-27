@@ -1,5 +1,5 @@
 # IoT Sensor Fleet Data Pipeline
-
+![IoT Pipeline](https://github.com/nadiyaktech12-creator/ai-data-portfolio/actions/workflows/iot-pipeline.yml/badge.svg)
 Local data lake style pipeline that generates IoT sensor telemetry and stores it as Parquet, then loads it into DuckDB for fast analytics.
 
 ## Overview
