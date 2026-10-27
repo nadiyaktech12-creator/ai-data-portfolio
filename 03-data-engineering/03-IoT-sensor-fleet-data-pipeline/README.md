@@ -15,7 +15,7 @@ Local data lake style pipeline that generates IoT sensor telemetry and stores it
 - Prefect
 
 ## Project Structure
-. ├── generate_sensor_data.py # Creates realistic IoT telemetry ├── load_to_duckdb.py # Loads Parquet into DuckDB ├── query_example.py # Sample analytical query ├── orchestration/ │ └── prefect_flow.py # Full pipeline orchestration ├── requirements.txt └── README.md
+├── generate_sensor_data.py # Creates realistic IoT telemetry ├── load_to_duckdb.py # Loads Parquet into DuckDB ├── query_example.py # Sample analytical query ├── orchestration/ │ └── prefect_flow.py # Full pipeline orchestration ├── requirements.txt └── README.md
 ## Quick Start
 ```bash
 python -m venv venv
