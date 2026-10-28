@@ -1,5 +1,5 @@
 # End-to-End MLOps Pipeline
-
+![MLOps Pipeline](https://github.com/nadiyaktech12-creator/ai-data-portfolio/actions/workflows/mlops-pipeline.yml/badge.svg)
 Lightweight MLOps demonstration: train a model with MLflow tracking, save it, and serve predictions via FastAPI.
 
 ## Overview
