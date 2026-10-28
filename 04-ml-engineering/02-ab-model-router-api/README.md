@@ -1,5 +1,6 @@
 
 # A/B Model Router API
+![A/B Router](https://github.com/nadiyaktech12-creator/ai-data-portfolio/actions/workflows/ab-router.yml/badge.svg) 
 
 FastAPI service that routes prediction traffic between a baseline model and a challenger model.
 
