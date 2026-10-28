@@ -61,8 +61,11 @@ This repository contains carefully selected **client-ready projects** built with
 
 ### 🔹 Machine Learning Engineering
 
-- Model Deployment with FastAPI
-- Lightweight MLOps & Monitoring setups
+* **End-to-End MLOps Pipeline** — Train a model with MLflow tracking and serve it via FastAPI, with basic tests and GitHub Actions.  
+  [View project →](./04-ml-engineering/01-end-to-end-mlops-pipeline/)
+
+* Model Deployment with FastAPI
+* Lightweight MLOps & Monitoring setups
 
 ### 🔹 Generative AI
 - Document Question-Answering (RAG) Systems
