@@ -1,6 +1,8 @@
 
 # Enterprise Document QA (Hybrid RAG)
 
+https://enterprise-document-question-and-answers-hybrid-rag.streamlit.app/
+
 A production-style **Hybrid Retrieval-Augmented Generation** system that answers questions over enterprise documents using both dense (vector) and sparse (BM25) retrieval.
 
 Built with LangChain, Chroma, BM25, and Groq.
